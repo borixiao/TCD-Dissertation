@@ -14,39 +14,39 @@
 \contentsline {section}{\numberline {2.3}From Predictive AI to Generative AI}{6}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Consumer Perception as a Conceptual Lens}{6}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Key Themes in AI Marketing and Consumer Perception}{7}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Trust and Credibility}{7}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Authenticity}{7}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Personalisation, Relevance, and Usefulness}{8}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Privacy Concerns}{8}{subsection.2.5.4}%
-\contentsline {subsection}{\numberline {2.5.5}Purchase Intention and Behavioural Outcomes}{8}{subsection.2.5.5}%
-\contentsline {section}{\numberline {2.6}Synthesis and Research Gap}{9}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Summary}{9}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Methodology}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Approach}{10}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Research Design}{10}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Data Collection}{10}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Data Selection Criteria}{10}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Thematic Analysis}{11}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Limitations}{11}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Summary}{11}{section.3.7}%
-\contentsline {chapter}{\numberline {4}Findings and Discussion}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{12}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Overview of Identified Themes}{12}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Trust}{12}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Authenticity}{13}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Personalisation}{13}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Privacy Concerns}{13}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Purchase Intention}{13}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Interrelationship Between Themes}{13}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Discussion}{14}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Summary}{14}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Conclusion}{15}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{15}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Summary of Findings}{15}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Theoretical Implications}{15}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Practical Implications}{16}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Limitations}{16}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Future Research}{16}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Final Remarks}{16}{section.5.7}%
-\contentsline {chapter}{\numberline {A1}Appendix}{19}{appendix.A}%
-\contentsline {section}{\numberline {A1.1}Appendix numbering}{19}{section.A.1}%
+\contentsline {subsection}{\numberline {2.5.1}Trust and AI-Enabled Customer Experience}{7}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Authenticity, Emotion, and AI-Generated Content}{8}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Personalisation, Relevance, and Perceived Usefulness}{8}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Privacy Concerns, Transparency, and Perceived Intrusiveness}{9}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Behavioural Outcomes: Purchase Intention, Engagement, and Donation Intention}{10}{subsection.2.5.5}%
+\contentsline {section}{\numberline {2.6}Synthesis and Research Gap}{10}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Summary}{11}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Methodology}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Approach}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Design}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data Collection}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Data Selection Criteria}{12}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Thematic Analysis}{13}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Limitations}{13}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Summary}{13}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Findings and Discussion}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Overview of Identified Themes}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Trust}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Authenticity}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Personalisation}{15}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Privacy Concerns}{15}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Purchase Intention}{15}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Interrelationship Between Themes}{15}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Discussion}{16}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Summary}{16}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Conclusion}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Summary of Findings}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Theoretical Implications}{17}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Practical Implications}{18}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Limitations}{18}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Future Research}{18}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Final Remarks}{18}{section.5.7}%
+\contentsline {chapter}{\numberline {A1}Appendix}{21}{appendix.A}%
+\contentsline {section}{\numberline {A1.1}Appendix numbering}{21}{section.A.1}%
