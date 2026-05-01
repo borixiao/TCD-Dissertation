@@ -1,0 +1,23 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Local editor and OS noise
+.DS_Store
+
+# Codex/local workflow notes
+local-skills/
+
+# Temporary compatibility exports
+*-vscode-compatible.pdf

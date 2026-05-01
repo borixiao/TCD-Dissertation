@@ -21,15 +21,15 @@
 %   It will be used for the title page and for the embedded PDF information
 %----------------------------------------------------------------------------------------
 
-\newcommand{\thesistitle}{Consumer Perception of Artificial Intelligence and Generative Artificial Intelligence in Marketing: A Thematic Literature Review} % Your thesis title, this is used in the title and abstract
+\newcommand{\thesistitle}{Consumer Perception of AI-Mediated Communication in Digital Marketing Contexts: A Thematic Literature Review} % Your thesis title, this is used in the title and abstract
 \newcommand{\degree}{M.Sc. in Interactive Digital Media} % Replace with your degree name, this is used in the title page and abstract
 \newcommand{\typeofthesis}{dissertation} % dissertation, Final Year Project, report, etc.
 \newcommand{\authorname}{Pojui Hsiao} % Your name, this is used in the title page and PDF stuff
 %% Do not put your Student ID in the document, as TCD will not publish
 %% documents that contain both your name and your Student ID.
-\newcommand{\supervisor}{[Supervisor Name]} % replace with the name of your supervisor
+\newcommand{\supervisor}{Carol O'Sullivan} % replace with the name of your supervisor
 %\newcommand{\cosupervisor}{Dr Alex Lee} % replace with the name of your co-supervisor if you have one
-\newcommand{\keywords}{artificial intelligence, generative artificial intelligence, marketing, consumer perception, trust, authenticity} % Replace with keywords for your thesis
+\newcommand{\keywords}{artificial intelligence, generative artificial intelligence, AI-mediated communication, digital marketing, consumer perception, trust, authenticity} % Replace with keywords for your thesis
 \newcommand{\school}{\href{https://www.scss.tcd.ie/}{School of Computer Science and Statistics}} % Your school's name and URL, this is used in the title page
 %Edited by HS for engineering
 
@@ -97,3 +97,85 @@
 \title{\thesistitle}
 \author{\authorname}
 
+
+\hypersetup{
+   pdftitle=\thesistitle, % Set the PDF's title to your title
+   pdfauthor=\authorname, % Set the PDF's author to your name
+   pdfkeywords=\keywords, % Set the PDF's keywords to your keywords
+   pdfsubject=\degree, % Set the PDF's keywords to your keywords
+   pdfinfo={
+     pdfsupervisor=\supervisor, % Set the PDF's supervisor to your supervisor
+     %pdfcosupervisor=\cosupervisor, % Set the PDF's cosupervisor to your cosupervisor if using
+   }
+}
+
+
+\frontmatter
+\begin{document}
+\input{title/title.tex}
+\pagenumbering{roman}
+\section*{\Huge\textcolor{tcd_blue}{Declaration}}
+\vspace{1cm}
+I hereby declare that this \typeofthesis\ is entirely my own work and that it has not been submitted as an exercise for a degree at this or any other university.
+
+\vspace{1cm}
+I have read and I understand the plagiarism provisions in the General Regulations of the University Calendar for the current year, found at \url{http://www.tcd.ie/calendar}.
+\vspace{1cm}
+
+I have completed the Online Tutorial on avoiding plagiarism `Ready Steady Write', located at \url{http://tcd-ie.libguides.com/plagiarism/ready-steady-write}.
+\vspace{1cm}
+
+I consent / do not consent to the examiner retaining a copy of the thesis beyond the examining period, should they so wish (EU GDPR May 2018).
+\vspace{1cm}
+
+I agree that this thesis will not be publicly available, but will be available to TCD staff and students in the University’s open access institutional repository on the Trinity domain only, subject to Irish Copyright Legislation and Trinity College Library conditions of use and acknowledgement.  \textbf{Please consult with your supervisor on this last item before agreeing, and delete if you do not consent}
+\vspace{3cm}
+
+Signed:~\rule{5cm}{0.3pt}\hfill Date:~\rule{5cm}{0.3pt}
+
+\chapter*{Abstract}
+This dissertation examines how artificial intelligence (AI) and generative artificial intelligence (GenAI) shape consumer perception in AI-mediated communication across digital marketing contexts. As AI becomes more visible in personalised advertising, recommendation systems, service interactions, and content creation, consumer response is shaped not only by efficiency and convenience but also by concerns about trust, authenticity, privacy, and behavioural influence. Although the literature on AI in marketing has expanded rapidly, it remains fragmented across applications and often isolates individual constructs rather than explaining how they interact.
+
+To address this gap, the study adopts a qualitative literature review using thematic analysis. Peer-reviewed academic studies on AI, GenAI, and consumer perception in digital communication and marketing settings were selected and analysed to identify recurring themes and conceptual tensions. The review focuses on how consumers interpret AI-mediated brand communication and how these interpretations affect attitudes and behavioural intentions.
+
+The findings show that consumer perception of AI-mediated communication is neither uniformly positive nor uniformly negative. Trust emerges as a central mediating factor, while authenticity becomes especially important when AI is involved in emotionally expressive or creative communication. Personalisation can improve perceived relevance and usefulness, but its benefits are often constrained by privacy concerns and perceived intrusiveness. Behavioural outcomes such as purchase intention, engagement, and donation intention are therefore shaped by the interaction of several perceptual mechanisms rather than by AI adoption alone.
+
+The dissertation concludes that AI-mediated communication should be understood as a consumer-facing relational issue rather than only a technological or managerial one. It contributes to the literature by offering a consumer-centred synthesis of the main themes that shape responses to AI and GenAI in digital brand communication.
+
+\chapter*{Lay Abstract}
+This dissertation looks at how people feel when brands and businesses use artificial intelligence to communicate with them in digital media. Today, AI is used to recommend products, personalise advertisements, answer customer questions, and even create promotional text or images. While these tools can make communication faster and more relevant, they can also make people uneasy. Some people may find AI useful and convenient, while others may feel that it is intrusive, less trustworthy, or less genuine than human communication.
+
+The study does not collect survey or interview data. Instead, it reviews and analyses existing academic research on AI in digital marketing and brand communication. By comparing published studies, the dissertation identifies the main patterns in how consumers react to AI-generated or AI-supported communication.
+
+The review shows that consumer reactions depend on more than just whether AI is effective. People are more likely to respond positively when AI-mediated communication feels helpful, relevant, and easy to use. However, negative reactions become more likely when AI reduces a sense of authenticity, raises privacy concerns, or makes consumers feel that communication is too automated. Overall, the dissertation argues that successful use of AI depends on how people interpret its presence in digital communication, not just on what the technology can do.
+
+\newpage
+\onehalfspacing\raggedright %\raggedright turns off justification and hyphenation
+
+\section*{\Huge\textcolor{tcd_blue}{Acknowledgements}}
+I would like to express my sincere gratitude to my supervisor for their guidance, encouragement, and feedback throughout this dissertation. Their advice helped me refine the focus of the study and develop a clearer understanding of the literature.
+
+I am also grateful to the lecturers and staff of the School of Computer Science and Statistics for their support during my studies in Interactive Digital Media. Finally, I would like to thank my family and friends for their patience and encouragement throughout the research and writing process.
+\tableofcontents
+\listoffigures
+\listoftables
+
+\mainmatter
+% maintaining separate .tex files for each chapter is good practice
+\input{introduction/introduction.tex}
+\input{background/background.tex}
+\input{project/project.tex}
+\input{evaluation/evaluation.tex}
+\input{conclusion/conclusion.tex}
+
+% note that your supervisor may have a strong opinion on the style of referencing you use. Some background is available at https://www.overleaf.com/learn/latex/Bibtex_bibliography_styles
+\bibliographystyle{IEEEtran} %Changed to IEEETran by HS
+%\bibliographystyle{unsrt}
+
+\bibliography{bibs/ai_marketing_intro}
+\appendix
+\renewcommand{\thechapter}{A\arabic{chapter}}
+\input{appendix/appendix.tex}
+
+
+\end{document}

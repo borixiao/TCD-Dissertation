@@ -1,0 +1,8 @@
+{
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.showContextMenu": true,
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+  "workbench.editorAssociations": {
+    "*.pdf": "latex-workshop-pdf-hook"
+  }
+}
